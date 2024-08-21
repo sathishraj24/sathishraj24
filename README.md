@@ -3,9 +3,9 @@
 A passionate 💻 Frontend Developer & Graphic Designer 
 
 ### 🌟 Skills & Tools
-- **Frontend Development:** HTML, CSS, JavaScript
-- **UI/UX Design:** Figma, Photoshop, Illustrator
-- **Graphic Design:** Logo Design, Marketing Materials, Poster Creation
+- **Frontend Development :** HTML, CSS, JavaScript
+- **UI/UX Design :** Figma, Photoshop, Illustrator
+- **Graphic Design :** Logo Design, Marketing Materials, Poster Creation
 
 <br>
 
@@ -26,15 +26,17 @@ A passionate 💻 Frontend Developer & Graphic Designer
 <br>
 
 ### 🚀 What I Do
-- **Frontend Development:** I enjoy turning ideas into responsive and interactive web pages. My focus is on writing clean, maintainable code and creating user-friendly experiences.
-- **Graphic Design:** I create visually appealing graphics, logos, and marketing materials. I love blending creativity with technical skills to deliver high-quality designs.
+- **Frontend Development :** I enjoy turning ideas into responsive and interactive web pages. My focus is on <br>
+                             writing clean, maintainable code and creating user-friendly experiences.
+- **Graphic Design:** I create visually appealing graphics, logos, and marketing materials. I love blending
+                      creativity with technical skills to deliver high-quality designs.
 
 <br>
 
 
 ### 📚 Currently Learning
-- **JavaScript:** Diving deeper into JavaScript to enhance interactivity and functionality in web development.
-- **React:** Exploring React to build dynamic and efficient web applications.
+- **JavaScript :** Diving deeper into JavaScript to enhance interactivity and functionality in web development.
+- **React :** Exploring React to build dynamic and efficient web applications.
 
 <br>
 
